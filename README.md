@@ -9,3 +9,4 @@ GUI application which uses a weather API to display weather information when cit
 
 'WeatherForcast.ipynb' contains the code of GUI aplication.
 
+![WeatherGUI screenshot](https://github.com/pooja314/Weather-Forcast-GUI-application/blob/master/WeatherGUI_screeenshot.png)
